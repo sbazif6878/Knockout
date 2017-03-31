@@ -1,5 +1,6 @@
 <h1>Knockout</h1>
 <h2>Description</h2>
+<p>     Knockout is a fighting game. To win this game yo have to kill ohther player.</p>
 <h3>Screen Shots</h3>
 <img src="https://github.com/sbazif6878/Knockout/blob/master/objectives/akuma%20wins%20screen.png">
 <img src="https://github.com/sbazif6878/Knockout/blob/master/objectives/cammy%20wins%20screen.PNG">
